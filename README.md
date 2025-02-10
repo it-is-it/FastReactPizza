@@ -14,23 +14,23 @@ Fast React Pizza is a modern pizza-ordering app built with React and Vite. The a
 
 ### Home Page
 
-![Home Page](/screenshot-home.png)
+![Home Page](./public//screenshot-home.png)
 
 ### Pizza Menu
 
-![Pizza Menu](/screenshot-menu.png)
+![Pizza Menu](./public//screenshot-menu.png)
 
 ### Cart Page
 
-![Cart Page](/screenshot-cart.png)
+![Cart Page](./public//screenshot-cart.png)
 
 ### Order Pizza
 
-![Order Pizza](/screenshot-order.png)
+![Order Pizza](./public//screenshot-order.png)
 
 ### Order Tracking
 
-![Order Tracking](/screenshot-tracking.png)
+![Order Tracking](./public//screenshot-tracking.png)
 
 ## Getting Started 🛠
 
