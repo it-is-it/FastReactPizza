@@ -2,6 +2,10 @@
 
 Fast React Pizza is a modern pizza-ordering app built with React and Vite. The app provides an intuitive flow for ordering pizzas, tracking orders in real-time, and even auto-fetching your location using a custom geolocation hook. Perfect for showcasing your React skills or as a learning project!
 
+## Live Demo 🌍
+
+Check out the live demo here: [Fast React Pizza Live](https://fast-react-pizza-alpha-beryl.vercel.app)
+
 ## Features 🚀
 
 👉 **Real-time Updates:** Get instant updates on your order status and pizza preparation.  
@@ -70,10 +74,6 @@ npm run dev
 http://localhost:3000
 ```
 
-## Live Demo 🌍
-
-Check out the live demo here: [Fast React Pizza Live](https://fast-react-pizza-alpha-beryl.vercel.app)
-
 ## Built With 🛠
 
 - **React** - For building the UI.
@@ -92,4 +92,22 @@ Check out the live demo here: [Fast React Pizza Live](https://fast-react-pizza-a
 4. **Order:** Confirm your details, use the geolocation feature to add your current location, and place the order.
 5. **Track Order:** Copy the provided order ID and use it to monitor your order's real-time status.
 
+## 🔗 You may also like...
+
+- **[Worldwise](https://github.com/it-is-it/Worldwise)** - A Travel Companion App
+- **The Wild Oasis** - A hotel service app
+- **React Quiz** - A React-based quiz app
+
+## 📞 Contact
+
+For support or inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/ishwortimalsina) or open an issue in the repository.
+
+## 📚 License
+
+This project is licensed under the MIT License.
+
+---
+
 Enjoy ordering and tracking pizzas with **Fast React Pizza!** 🍕✨
+
+**Author:** Ishwor Timalsina
